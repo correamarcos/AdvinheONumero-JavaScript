@@ -1,2 +1,2 @@
 # AdvinheONumero-JavaScript
-Jogo adivinhe o número para trino de aprendizado em JavaScript
+Jogo adivinhe o número para treino de aprendizado em JavaScript
